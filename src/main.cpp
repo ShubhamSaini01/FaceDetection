@@ -27,9 +27,9 @@ int main(int argc, char const *argv[])
             break;
         GaussianBlur( frame, frame, Size(3,3), 0, 0, BORDER_DEFAULT );
         /// Convert it to gray
-        cvtColor( frame, src_gray, CV_BGR2GRAY );
+        cvtColor( frame, src_gray, COLOR_BGR2GRAY );
         /// Create window
-        namedWindow( "srcSobel", CV_WINDOW_AUTOSIZE );
+        namedWindow( "srcSobel", WINDOW_AUTOSIZE );
         /// Generate grad_x and grad_y
         Mat grad_x, grad_y;
         Mat abs_grad_x, abs_grad_y;
