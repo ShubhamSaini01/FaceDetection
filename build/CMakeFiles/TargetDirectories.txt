@@ -1,0 +1,5 @@
+/home/yogyamodi/Downloads/FaceDetection/build/CMakeFiles/rebuild_cache.dir
+/home/yogyamodi/Downloads/FaceDetection/build/CMakeFiles/edit_cache.dir
+/home/yogyamodi/Downloads/FaceDetection/build/src/CMakeFiles/rebuild_cache.dir
+/home/yogyamodi/Downloads/FaceDetection/build/src/CMakeFiles/edit_cache.dir
+/home/yogyamodi/Downloads/FaceDetection/build/src/CMakeFiles/bin_main.dir

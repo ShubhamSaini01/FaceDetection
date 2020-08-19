@@ -11,13 +11,13 @@ int main(int argc, char const *argv[])
     int scale = 1;
     int delta = 0;
     int ddepth = CV_16S;
-    int c;
     VideoCapture cap(0);           // Creating VideoCapture object and opening webcam
     if(!cap.isOpened())                  //Checking if opened  
     {
         std::cout << "Error opening Web cam" <<std::endl;
         return -1;
     }
+    std::cout<<"Hello";
     while(1)
     {
 
